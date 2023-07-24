@@ -7,6 +7,10 @@ The main goal is create a website with my professional isformation.
 
 <img src="https://github.com/CarlosBerken/site-portfolio/blob/main/preview.png" height="500"/>
 
+## Live link:
+
+https://carlosberken.github.io/site-portfolio/
+
 ## Main conecpts applied
 
 - Flexbox
